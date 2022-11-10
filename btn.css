@@ -1,0 +1,8 @@
+#btnTimer {
+    background-color: var(--grey-color-one);
+    border-radius: 8px;
+    outline: none;
+    border: solid 1px var(--grey-color-two);
+    width: 80px;
+    height: 20px;
+}
